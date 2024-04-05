@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUserApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#222831</item>
+        <item name="colorSecondary">#31363F</item>
+        <item name="colorTertiary">#76ABAE</item>
+        <item name="colorOnBackground">#EEEEEE</item>
+        
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.App.Starting" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+    </style>
+</resources>
