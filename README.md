@@ -9,7 +9,7 @@ GitHub User App is a feature-rich Android application designed to search for and
 - **Follow Relationships**: See lists of people the user follows and who follow them.
 - **Favorites**: Add users to your favorite list for quick access.
 
-This app was developed as part of the Android Fundamental Class submission in Dicoding.
+This app was developed as part of the Android Fundamental Class submission in Dicoding. [Class link](https://www.dicoding.com/academies/14-belajar-fundamental-aplikasi-android)
 
 **Tools and Technologies Used**
 
